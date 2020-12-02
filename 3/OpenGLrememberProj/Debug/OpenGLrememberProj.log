@@ -1,0 +1,3 @@
+﻿  Render.cpp
+C:\Users\S7yka4\Documents\прога лабы\ComnputerGraphic\grafika_lab1-master(3 лаба)\OpenGLrememberProj\Render.cpp(142): warning C4172: возвращение адреса локальной или временной переменной : Result
+  OpenGLrememberProj.vcxproj -> C:\Users\S7yka4\Documents\прога лабы\ComnputerGraphic\grafika_lab1-master(3 лаба)\Debug\OpenGLrememberProj.exe
